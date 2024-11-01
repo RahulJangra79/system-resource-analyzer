@@ -69,11 +69,5 @@ This script requires:
 - Modify threshold values for CPU, RAM, and Disk to suit your environment and requirements.
 - Change the logging interval by adjusting the `sleep` time in the `while` loop.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-
-
 
 
