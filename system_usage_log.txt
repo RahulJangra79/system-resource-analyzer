@@ -1,0 +1,2 @@
+System Resource Analyzer Log
+Timestamp, CPU(%), RAM(%), Disk(%)
